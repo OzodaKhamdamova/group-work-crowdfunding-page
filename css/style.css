@@ -18,7 +18,9 @@ body{
     max-width: 1440px;
     height: 400px;
     background-image: url(../images/image-hero-desktop.jpg);
-    background-position: center;    
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;    
 }
 .sitenav{
     background-image: url(../images/logo.svg);
