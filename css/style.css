@@ -1,0 +1,42 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: #F2F2F2;
+    
+}
+.siteheader{
+    max-width: 1440px;
+    height: 400px;
+    background-image: url(../images/image-hero-desktop.jpg);
+    background-position: center;    
+}
+.container{
+    width: 730px;
+    height: 2000px;
+    position: relative;
+    top: -120px;
+}
+.mastercraft{
+    height: 270px;
+    border: 1px solid rebeccapurple;
+    margin-bottom: 24px;
+    /* padding-top: 20px; */
+}
+.costs{
+    height: 212px;
+    margin-bottom: 24px;
+    border: 1px solid blue;
+}
+.mainsection{
+    height: 1197px;
+    border: 1px solid red;
+}
+
